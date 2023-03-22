@@ -1,6 +1,6 @@
 
 
-# 100_JAVA_PROGRAM_CHALLENGE
+# 100_JAVA_PROGRAMS_CHALLENGE
 ## Useful Links
 
 - For daily upgrades, follow me at:
